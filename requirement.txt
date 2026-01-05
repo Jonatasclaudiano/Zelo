@@ -2,3 +2,4 @@ streamlit
 google-cloud-firestore==2.19.0
 google-auth
 requests
+firestore
